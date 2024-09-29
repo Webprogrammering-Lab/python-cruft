@@ -1,3 +1,3 @@
-# Cookiecutter template repo
+# Python-cruft
 
-Ändrar i denna för att göra pull jobbigare i copy repo
+Detta är en python kurs.
