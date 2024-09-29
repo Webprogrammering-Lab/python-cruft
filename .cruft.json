@@ -1,6 +1,6 @@
 {
   "template": "https://github.com/Webprogrammering-Lab/coockiecutter-template",
-  "commit": "ac8d2d03d4c1fb050251f0fecd168790adcaa68e",
+  "commit": "b5067ee40d03a5269fa6ffa125b828511a19646f",
   "checkout": null,
   "context": {
     "cookiecutter": {
