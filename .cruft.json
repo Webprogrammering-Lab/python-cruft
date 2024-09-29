@@ -1,0 +1,14 @@
+{
+  "template": "https://github.com/Webprogrammering-Lab/coockiecutter-template",
+  "commit": "ac8d2d03d4c1fb050251f0fecd168790adcaa68e",
+  "checkout": null,
+  "context": {
+    "cookiecutter": {
+      "project_name": "python-cruft",
+      "project_slug": "python-cruft",
+      "author": "Andrea Arnesson",
+      "_template": "https://github.com/Webprogrammering-Lab/coockiecutter-template"
+    }
+  },
+  "directory": null
+}
